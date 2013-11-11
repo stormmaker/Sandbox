@@ -1,8 +1,9 @@
-
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		Test2 t2 = new Test2();
+		Object o = new Object();
 
 	}
 
